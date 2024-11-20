@@ -100,6 +100,27 @@ Tierra del Fuego y Santiago del Estero requieren mayores inversiones para cerrar
 Invertir en infraestructura para provincias rezagadas será crucial para mejorar la conectividad general y reducir la desigualdad digital.
 
 
+## Tendencias por Tecnología
+- ADSL:
+Declive significativo desde 2014, con una caída drástica desde 2018 debido a la migración hacia tecnologías más modernas.
+
+- Cablemódem:
+Estable, con ligeros altibajos. Sigue siendo relevante para mantenimiento, aunque su crecimiento es menor comparado con la fibra óptica.
+
+- Fibra Óptica:
+Crecimiento acelerado y constante, pasando de 150,323 conexiones en 2014 a 4,169,958 en 2024. Es la tecnología preferida por su velocidad y confiabilidad.
+
+- Wireless y Otros:
+Fluctuaciones moderadas y bajo crecimiento. Estas tecnologías no son atractivas frente a las opciones modernas como fibra óptica.
+
+## Evaluación General de las Tendencias
+
+- Crecimiento:
+Fibra óptica lidera el crecimiento absoluto y proporcional, mientras que el cablemódem se mantiene como una alternativa relevante.
+- Disminución:
+ADSL pierde relevancia debido a limitaciones tecnológicas, mientras que las conexiones inalámbricas permanecen estancadas.
+
+
 ## Cómo Ejecutar los Archivos
 
 Para ejecutar los cuadernos de Jupyter y reproducir los análisis:
