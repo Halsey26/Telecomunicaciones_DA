@@ -82,7 +82,7 @@ KPI = ((AccesosActual (2024-1) - AccesosAnterior (2023-1)) / AccesosAnterior (20
 
 Los análisis realizados y los KPIs establecidos son fundamentales para mejorar la conectividad a nivel provincial y nacional. Las visualizaciones generadas en los dashboards ayudan a entender las tendencias y áreas críticas, mientras que los KPIs permiten medir el impacto de las acciones propuestas para mejorar el acceso y la velocidad de Internet.
 
-# Tendencias en Velocidades y Conexiones
+### Tendencias en Velocidades y Conexiones
 1. Tendencia General:
 
 Las velocidades promedio han crecido de manera consistente, con un salto marcado durante y después de la pandemia debido a la creciente demanda de conectividad.
