@@ -100,7 +100,7 @@ Tierra del Fuego y Santiago del Estero requieren mayores inversiones para cerrar
 Invertir en infraestructura para provincias rezagadas será crucial para mejorar la conectividad general y reducir la desigualdad digital.
 
 
-## Tendencias por Tecnología
+### Tendencias por Tecnología
 - ADSL:
 Declive significativo desde 2014, con una caída drástica desde 2018 debido a la migración hacia tecnologías más modernas.
 
