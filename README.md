@@ -60,3 +60,43 @@ Se definieron y calcularon tres KPIs para medir el impacto de las mejoras en la 
 
 KPI = ((Nuevo acceso - Acceso Actual) / Acceso Actual) * 100
 
+- **Dataset Utilizado**: `p_totales_provincia.csv`
+
+### KPI 2: Incremento de velocidad en provincias rezagadas
+- **Objetivo**: Aumentar la velocidad de Internet en al menos 2 provincias rezagadas en más de 10 Mbps.
+- **Fórmula**:
+KPI_Velocidad = ((Velocidad Promedio Actual (2024-1) - Velocidad Promedio Anterior (2023-1)) * 100) / Velocidad Promedio Anterior (2023-1)
+
+- **Provincias Rezagadas**: `Santiago Del Estero`, `La Pampa`, `San Juan`, `Santa Cruz`, `Tierra Del Fuego`
+- **Dataset Utilizado**: `velocidad_provincia.csv`
+
+### KPI 3: Aumento de conexiones a nivel nacional
+- **Objetivo**: Aumentar las conexiones de Internet en un 2% a nivel nacional por cada 100 habitantes, de 2023-1 a 2024-1.
+- **Fórmula**:
+KPI = ((AccesosActual (2024-1) - AccesosAnterior (2023-1)) / AccesosAnterior (2023-1)) * 100
+
+- **Dataset Utilizado**: `p_totales_provincia.csv`
+
+## Conclusiones
+
+Los análisis realizados y los KPIs establecidos son fundamentales para mejorar la conectividad a nivel provincial y nacional. Las visualizaciones generadas en los dashboards ayudan a entender las tendencias y áreas críticas, mientras que los KPIs permiten medir el impacto de las acciones propuestas para mejorar el acceso y la velocidad de Internet.
+
+## Cómo Ejecutar los Archivos
+
+Para ejecutar los cuadernos de Jupyter y reproducir los análisis:
+
+1. Clona este repositorio en tu máquina local:
+
+git clone https://github.com/tu-usuario/repositorio.git
+
+
+2. Ejecuta los cuadernos de Jupyter:
+- `EDA.ipynb`: Para el análisis exploratorio de los datos.
+- `ETL.ipynb`: Para el proceso de extracción, transformación y carga de los datos.
+
+3. Abre el archivo de Power BI para explorar los dashboards:
+- `Dashboard/p2_DA.pbix`
+
+
+
+
