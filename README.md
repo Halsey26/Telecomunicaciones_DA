@@ -1,6 +1,7 @@
-# Proyecto de Análisis de Accesos a Internet y Velocidad por Provincia
+# Análisis para una empresa de Telecomunicaciones (Internet)
 
-Este repositorio contiene un análisis detallado sobre el acceso a Internet y la velocidad de conexión por provincia en base a varios conjuntos de datos. El objetivo del proyecto es evaluar el acceso a la tecnología, las tendencias de velocidad y las métricas clave para mejorar la conectividad a nivel nacional y por provincias específicas.
+Este repositorio contiene un análisis detallado sobre sobre el acceso y la calidad del servicio de internet en Argentina.
+El objetivo del proyecto es evaluar el acceso a la tecnología, las tendencias de velocidad y las métricas clave para mejorar la conectividad a nivel nacional y por provincias específicas.
 
 ## Estructura del Repositorio
 
